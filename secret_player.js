@@ -4,7 +4,7 @@ document.getElementById('log-in').onclick = function() {
 
     if (nickname === "1" && password === "1") {
 
-        window.location.href="roman112011.github.io/secret_player/users/Secret.html";
+        window.location.href="https://roman112011.github.io/secret_player/users/Secret.html";
         alert("hell)");
     }
 }
